@@ -1,0 +1,9 @@
+﻿#include<stdio.h>
+int main()
+{
+	float a, b, c;
+	a = 3.2;
+	b = 2.3;
+	c = a + b;
+	printf("%f", c);
+}
